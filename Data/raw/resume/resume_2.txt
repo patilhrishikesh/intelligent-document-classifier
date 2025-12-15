@@ -1,0 +1,21 @@
+Name: Priya Sharma
+Email: priya.sharma@email.com
+Phone: +91-9123456780
+
+Objective:
+Seeking a software engineering role to apply problem-solving and coding expertise.
+
+Education:
+- B.Tech IT, MIT Pune (CGPA: 8.2/10)
+
+Skills:
+- Java, Spring Boot, SQL
+- REST APIs, Docker, Cloud deployment
+
+Experience:
+- Software Developer Intern, Infosys (2023)
+- Built microservices for internal tools
+
+Projects:
+- E-commerce Web App (Java + Spring Boot)
+- Chatbot using Dialogflow

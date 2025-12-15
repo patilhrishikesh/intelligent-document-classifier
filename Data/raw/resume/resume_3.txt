@@ -1,0 +1,21 @@
+Name: Arjun Mehta
+Email: arjun.mehta@email.com
+Phone: +91-9988776655
+
+Objective:
+To work in data science and apply statistical models to real-world problems.
+
+Education:
+- M.Sc. Data Science, Symbiosis Pune
+
+Skills:
+- Python, R, SQL
+- Data Visualization, Deep Learning
+
+Experience:
+- Data Analyst Intern, TCS (2024)
+- Conducted customer churn analysis
+
+Projects:
+- Stock Price Prediction (LSTM)
+- Sentiment Analysis on Twitter data

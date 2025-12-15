@@ -1,0 +1,12 @@
+Report Title: Student Performance Report
+Class: 4th Standard
+Date: December 2025
+
+Summary:
+- Average Score: 78%
+- Highest Score: 95%
+- Lowest Score: 55%
+
+Recommendations:
+- Extra classes for weaker students
+- Encourage group learning activities

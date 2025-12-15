@@ -1,0 +1,13 @@
+Invoice No: INV-003
+Date: 05-Dec-2025
+
+Bill To:
+Arjun Mehta
+Delhi, India
+
+Items:
+1. Data Analysis Project - ₹20,000
+2. Report Preparation - ₹5,000
+
+Total: ₹25,000
+Payment Due: 20-Dec-2025

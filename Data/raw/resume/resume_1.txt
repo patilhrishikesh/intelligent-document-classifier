@@ -1,0 +1,22 @@
+Name: Rishikesh Patil
+Email: rishikesh.patil@email.com
+Phone: +91-9876543210
+
+Objective:
+To leverage my skills in Python and AI frameworks to contribute to innovative projects.
+
+Education:
+- B.E. Computer Science, SPPU Pune (CGPA: 7.5/10)
+
+Skills:
+- Python, Java, SQL
+- Machine Learning, NLP, LangChain
+- GitHub workflows, Cloud deployment
+
+Experience:
+- Intern, AI Startup (2024): Built NLP pipeline for resume analysis
+- Freelance Tutor: Taught English grammar to 4th standard students
+
+Projects:
+- Smart Resume Analyzer (Django + NLP)
+- Pattern Generator (Python)

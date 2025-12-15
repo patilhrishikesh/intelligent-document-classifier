@@ -1,0 +1,12 @@
+Report Title: Project Status Report
+Project: Smart Resume Analyzer
+Date: December 2025
+
+Summary:
+- Backend completed (Django + Python)
+- NLP pipeline implemented
+- Deployment pending
+
+Next Steps:
+- Deploy on Hugging Face Spaces
+- Add job scraping feature

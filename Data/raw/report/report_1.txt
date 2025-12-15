@@ -1,0 +1,11 @@
+Report Title: Monthly Sales Report
+Date: November 2025
+
+Summary:
+- Total Sales: ₹5,00,000
+- Top Product: Smartwatch
+- Region with highest sales: Pune
+
+Recommendations:
+- Increase marketing in Bangalore
+- Launch discount offers for headphones

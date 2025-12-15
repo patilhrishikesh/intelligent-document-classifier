@@ -1,0 +1,13 @@
+Invoice No: INV-001
+Date: 15-Dec-2025
+
+Bill To:
+Rishikesh Patil
+Pune, India
+
+Items:
+1. Web Development Service - ₹15,000
+2. Hosting Charges - ₹2,000
+
+Total: ₹17,000
+Payment Due: 30-Dec-2025

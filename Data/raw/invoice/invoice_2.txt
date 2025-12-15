@@ -1,0 +1,13 @@
+Invoice No: INV-002
+Date: 10-Dec-2025
+
+Bill To:
+Priya Sharma
+Mumbai, India
+
+Items:
+1. Graphic Design - ₹8,000
+2. Logo Creation - ₹3,000
+
+Total: ₹11,000
+Payment Due: 25-Dec-2025
