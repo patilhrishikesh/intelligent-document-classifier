@@ -62,6 +62,7 @@ This architecture ensures **consistency between training and inference**, which 
 
 intelligent-document-classifier/
 │
+
 ├── data/
 │ ├── raw/
 │ │ ├── resume/
