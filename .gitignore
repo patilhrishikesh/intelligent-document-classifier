@@ -11,3 +11,5 @@ __pycache__/
 
 artifacts/*.joblib
 
+# Python packaging
+*.egg-info/

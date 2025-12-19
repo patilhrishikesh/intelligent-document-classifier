@@ -1,7 +1,7 @@
 import streamlit as st
 
-from src.text_cleaning import clean_text
-from src.model_persistence import load_artifact
+from document_classifier.text_cleaning import clean_text
+from document_classifier.model_persistence import load_artifact
 
 st.set_page_config(
     page_title="Intelligent Document Classifier",
