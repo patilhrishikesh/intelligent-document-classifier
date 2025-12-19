@@ -58,32 +58,6 @@ This architecture ensures **consistency between training and inference**, which 
 
 ---
 
-## Project Structure
-
-intelligent-document-classifier/
-│
-├── data/
-│ ├── raw/
-│ │ ├── resume/
-│ │ ├── invoice/
-│ │ └── report/
-│ └── README.md
-│
-├── src/
-│ ├── data_loader.py # Robust data ingestion
-│ ├── text_cleaning.py # Text normalization & cleaning
-│ ├── vectorizer.py # TF-IDF feature engineering
-│ ├── train_model.py # Logistic Regression training
-│ ├── train_svm.py # Linear SVM training
-│ └── evaluate_model.py # Model evaluation
-│
-├── requirements.txt
-├── README.md
-└── .gitignore
-
-
----
-
 ## Machine Learning Pipeline
 This project follows a **modular ML pipeline** design:
 
