@@ -131,9 +131,8 @@ Each phase includes clean Git commits and verifiable outputs.
 
 ---
 
-## Project Status
-🚧 **Active Development**  
-Currently working on **Streamlit-based deployment (Phase 7)**.
+🚀 **Live Demo:** https://intelligent-document-classifier.streamlit.app
+
 
 ---
 
