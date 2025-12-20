@@ -1,7 +1,7 @@
 import joblib
 from pathlib import Path
 
-ARTIFACTS_DIR = Path('Artifacts')
+ARTIFACTS_DIR =  Path(__file__).resolve().parents[2] / "artifacts"
 ARTIFACTS_DIR.mkdir(exist_ok = True)
 
 def save_artifact(obj, filename: str) -> None:
