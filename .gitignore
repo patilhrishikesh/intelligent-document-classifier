@@ -9,7 +9,7 @@ __pycache__/
 # OS files
 .DS_Store
 
-artifacts/*.joblib
+# artifacts/*.joblib
 
 # Python packaging
 *.egg-info/

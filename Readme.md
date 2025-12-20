@@ -132,6 +132,10 @@ Each phase includes clean Git commits and verifiable outputs.
 ---
 
 🚀 **Live Demo:** https://intelligent-document-classifier.streamlit.app
+<<<<<<< HEAD
+=======
+
+>>>>>>> 3bf4e96538d915689f74871a750f1ade31bfdf7e
 
 ---
 
